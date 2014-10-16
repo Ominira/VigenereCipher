@@ -1,0 +1,12 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
+Encryption Software/bin/Debug/
+Encryption Software/bin/Release/
+
+Encryption Software/obj/Debug/
+Encryption Software/obj/Release/
